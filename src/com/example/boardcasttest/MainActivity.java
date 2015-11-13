@@ -38,6 +38,7 @@ public class MainActivity extends Activity {
 		});
 	}
 	
+	//лМ╪сакв╒йм
 	@Override
 	protected void onDestroy() {
 		// TODO Auto-generated method stub
